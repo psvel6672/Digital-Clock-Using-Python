@@ -10,6 +10,8 @@ Once you run the code, it will render the output similar to what shown below;
 
 <img width="212" alt="digital clock" src="https://github.com/psvel6672/Digital-Clock-Using-Python/assets/140797046/a029d0cb-94d1-456f-ba6c-96e4588a9f2d">
 
+Note* :: On click ☀ icon to change the background
+
 # Author
 
 Author :: Ps Thamizhan
